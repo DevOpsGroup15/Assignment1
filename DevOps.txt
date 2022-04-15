@@ -1,0 +1,25 @@
+adopting devops culture is a great challenge:
+
+
+Approval process#
+devp team spread
+3rd sprint reserved for code quality checks
+1 sprint for release process management
+reactive - 
+
+
+------
+DevOps Consultant
+
+DevOps is a set of practices that combines software development and IT operations. It aims to shorten the systems development life cycle and provide continuous delivery with high software quality. DevOps is complementary with Agile software development; 
+
+Right approach - give examples of tools
+
+Configuration Management.
+Continuous Integration.
+Automated Testing.
+Infrastructure as Code.
+Continuous Delivery.
+Continuous Deployment.
+Continuous Monitoring.
+
